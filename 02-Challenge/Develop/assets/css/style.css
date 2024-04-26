@@ -19,11 +19,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* subtly changes 'seo' portion of Horiseo header. I believe it's intentional?? */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* header configuration */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,16 +36,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* header list styling */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph congifuration */
 p {
     font-size: 16px;
 }
-
+/* main image config */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,17 +54,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* manipulates pictures in content section */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* shifts img to the right of text */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* primary content configurations/styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -88,7 +88,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* side panel configurations/styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
